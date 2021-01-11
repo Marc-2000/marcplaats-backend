@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aIB30VSZ3bqwHh7bxg0QkW1X1FcXurWDev5gfN14cj3OgvJENTuiqWkU0Xihyew8GGnCClTeONH8npPkjZxuhA==",
+  "dgSpecHash": "USQCkynSLkqdEq9vWZLsXLActAaLXlfTk8BpObXgVMsqlGMQPz1ScAzed2Odf9QHSaA53rT4ad9E6L5Oe+6iVA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marcd\\Desktop\\Marcplaats\\marcplaats-backend\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\marcd\\Desktop\\marcplaats-backend\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marcd\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",
     "C:\\Users\\marcd\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",

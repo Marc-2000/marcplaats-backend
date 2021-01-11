@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FQ/qgTPw+WvkaSkBzIxhnGU7e6desHDHrE5CYfVM7htF2gePO9sFHNvGbnyzol+xQm3Ul2pxvGdMpDmeNIoKZQ==",
+  "dgSpecHash": "mhk7X+PsxK8ngo/zU0lVxpTGweI21cxwHZTnxnNEsvJhqqQ7M/Yt2IwSY9ZGWWq+Ka2PeOGSZVDtPpqRW9vTiA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marcd\\Desktop\\Marcplaats\\marcplaats-backend\\UnitTests\\UnitTests.csproj",
+  "projectFilePath": "C:\\Users\\marcd\\Desktop\\marcplaats-backend\\UnitTests\\UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marcd\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",
     "C:\\Users\\marcd\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",

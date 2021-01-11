@@ -13,7 +13,7 @@ namespace Marcplaats_Backend.BLL.Models.Entities
 
         public string Username { get; set; }
 
-        public string Email { get; set;  }
+        public string Emaill { get; set;  }
 
         public string PhoneNumber { get; set; }
 
