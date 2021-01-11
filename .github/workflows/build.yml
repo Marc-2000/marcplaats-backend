@@ -43,5 +43,5 @@ jobs:
         shell: powershell
         run: |
           .\.sonar\scanner\dotnet-sonarscanner begin /k:"Marc-2000_marcplaats-backend" /o:"marc-2000" /d:sonar.login="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://sonarcloud.io"
-          msbuild marcplaats-backend\API\"marcplaats backend".sln /t:Clean;Rebuild
+          msbuild marcplaats-backend\API\marcplaatsbackend.sln /t:Clean;Rebuild
           .\.sonar\scanner\dotnet-sonarscanner end /d:sonar.login="${{ secrets.SONAR_TOKEN }}"
