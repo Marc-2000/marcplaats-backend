@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Arctic Secrets\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Arctic Secrets\\.nuget\\packages"
+    ]
+  }
+}
